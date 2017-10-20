@@ -1,6 +1,8 @@
 #canvas{
-  border-bottom: 1px solid rgba(0,0,0,0.2); 
-  background-color: #FFF;
-  box-shadow: 0 9px 20px -5px rgba(0,0,0,0.2);
-  
+  background-image: url("https://i.imgur.com/cB3huQP.jpg");
+
+}
+body {
+    font-family: 'Acme';
+    font-size: 22px;
 }
